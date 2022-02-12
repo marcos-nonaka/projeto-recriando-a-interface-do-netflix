@@ -41,7 +41,7 @@ header nav a:hover {
 /*filme principal*/
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.40),rgba(0,0,0,.40)100%), url(/img/fundo-terminator2.jpg);
+    background: linear-gradient(rgba(0,0,0,.40),rgba(0,0,0,.40)100%), url(../img/fundo-terminator2.jpg);
     height: 400px;
     background-size: cover;
     display: flex;
